@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you refer to this framework, please cite it using the metadata below."
+title: "SFW AI Character Safety Framework: Romance, Explicit-Content Limits, Minors and Self-Harm Protections"
+abstract: >-
+  A proposed framework for AI character chat and roleplay platforms that
+  separates permitted non-explicit romance (including kissing and light,
+  non-graphic touch) from prohibited explicit sexual content, sets hard lines
+  on minors and real people, treats self-harm and crisis response as a separate
+  safety dimension, and specifies how characters should behave while enforcing
+  limits. Includes a detailed policy and 33 test cases with pass criteria. A
+  draft proposal, not an industry standard or an independent audit; written by
+  the founder of ChatBrat.
+type: dataset
+authors:
+  - family-names: "Williams"
+    given-names: "Garret E."
+    affiliation: "ChatBrat AI"
+version: "0.1.0"
+date-released: "2026-10-13"
+license: CC-BY-4.0
+repository-code: "https://github.com/garretewilliams/sfw-ai-character-safety-framework"
+url: "https://github.com/garretewilliams/sfw-ai-character-safety-framework"
+keywords:
+  - AI safety
+  - content moderation
+  - SFW
+  - AI companions
+  - AI roleplay
+  - self-harm prevention
+  - trust and safety
+  - Character.AI bankruptcy
