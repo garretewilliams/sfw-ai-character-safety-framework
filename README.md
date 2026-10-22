@@ -191,3 +191,7 @@ The maintainer founded ChatBrat, an AI character platform that competes with Cha
 ## 12. Citing and contributing
 
 Please cite the repository using [`CITATION.cff`](CITATION.cff) (GitHub's "Cite this repository" button). Issues that challenge a rule, propose a borderline case, or contribute a test case are especially welcome; please do not post real conversations containing personal information or crisis disclosures.
+
+## Readable PDF and archived versions
+
+A [PDF companion](23411120-documentation.pdf) is available for the archived v0.1.0 documentation. See [archive and version notes](ZENODO.md) and the [published Zenodo version](https://zenodo.org/records/23555459). This documentation update adds no benchmark results or new software-release claim.
